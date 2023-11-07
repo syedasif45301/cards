@@ -1,0 +1,63 @@
+
+body {
+    background-color: rgb(181, 219, 231);
+    padding: 10px;
+    margin:10px;
+    
+}
+
+h1{
+    color:black;
+    text-align: center;
+    font-weight:bolder;
+    text-decoration: underline;
+    padding:8px;
+}
+
+div {
+    
+   /* background-color:rgb(212, 240, 240);*/
+
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+    box-sizing: border-box;
+   
+
+}
+
+label{
+    font-size: larger;
+    padding-left: 07px;
+    font-weight:bolder;
+}
+
+
+.divcls {
+    display:inline-block;
+    background-color:aliceblue;
+    padding: 4px;
+    margin: 10px;
+    
+}
+
+
+
+
+img {
+    border-radius: 15px;
+    width: 298px;
+}
+
+.cls {
+    font-weight: bolder;
+    padding-left: 07px;
+    
+}
+
+.cls1 {
+    font-size: larger;
+    padding-left: 07px;
+    font-weight:bolder;
+    
+}
